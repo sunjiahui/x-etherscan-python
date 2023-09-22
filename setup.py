@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name="etherscan-python",
+    name="x-etherscan-python",
     version="2.1.0",
     description="A minimal, yet complete, python API for etherscan.io.",
-    url="https://github.com/pcko1/etherscan-python",
+    url="https://github.com/sunjiahui/x-etherscan-python",
     author="Panagiotis-Christos Kotsias",
     author_email="kotsias.pan@gmail.com",
     license="MIT",
